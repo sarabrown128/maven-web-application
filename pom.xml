@@ -95,13 +95,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Releases Nexus Repository</name>
+	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://http://34.200.222.101:8081/repository/tesla-web-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Snapshot Nexus Repository </name>
+	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://http://34.200.222.101:8081/repository/tesla-fe-snapshots/</url>
 	    </snapshotRepository>
 	    
