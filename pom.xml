@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.3.198:8081/repository/tesla-holiday-webapp-releases/</url>
+	      <url>http://44.196.48.46:8081/repository/paypal-webapp-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.3.198:8081/repository/tesla-holiday-webapp-snapshots/</url>
+	      <url>http://44.196.48.46:8081/repository/paypal-webapp-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
